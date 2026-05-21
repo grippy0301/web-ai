@@ -1,0 +1,8 @@
+{
+  "name": "web-ai-roadmap",
+  "private": true,
+  "scripts": {
+    "notion:fetch": "node scripts/fetch-all-notion.js",
+    "notion:export": "node scripts/export-notion-phases.js"
+  }
+}
